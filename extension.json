@@ -1,0 +1,26 @@
+{
+	"name": "ErweiterungSpezial",
+	"version": "1.0",
+	"author": [
+		"Mustafa Sahin"
+	],
+	"url": "",
+	"descriptionmsg": "erweiterungspezial-desc",
+	"license-name": "MIT",
+	"type": "other",
+	"AutoloadClasses": {
+		"SpecialErweiterungSpezial": "SpecialErweiterungSpezial_body.php"
+	},
+	"SpecialPages": {
+		"ErweiterungSpezial": "SpecialErweiterungSpezial"
+	},
+	"MessagesDirs": {
+		"ErweiterungSpezial": [
+			"i18n"
+		]
+	},
+	"ExtensionMessagesFiles": {
+		"ErweiterungSpezialAlias": "i18n/ErweiterungSpezial.i18n.alias.php"
+	},
+	"manifest_version": 1
+}

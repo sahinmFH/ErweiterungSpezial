@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Mustafa Sahin"
+        ]
+    },
+    "ErweiterungSpezial": "The name of the extension's entry in Special:SpecialPages",
+    "erweiterungspezial-desc": "{{desc}}",
+    "erweiterungspezial-summary": "Description appearing on top of Special:ErweiterungSpezial."
+}
